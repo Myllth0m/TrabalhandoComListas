@@ -2,13 +2,13 @@
 Esse projeto foi criado para tentar mostrar as consultas mais comuns que são feitas na SETIC.
 
 ### Clone o repositório usando o Visual Studio
-abra o visual studio e clique em **clonar um repositório**;
+- Abra o visual studio e clique em **clonar um repositório**.
 
-copie o comando `https://github.com/Myllth0m/TrabalhandoComListas.git` e escolha o caminho onde o projeto será salvo;
+- Copie o comando `https://github.com/Myllth0m/TrabalhandoComListas.git`.
 
-após, clique em clonar;
+- Clique em **clonar** e pronto.
 
-O projeto já vai abrir e você pode ver as questões na classe **Program.cs**
+As questões estão na classe **Program.cs**. Se tiver alguma dúvida, fica a vontade para falar comigo que eu te ajudo quando eu quiser.
 
 ---
 ###### Se tiver alguma ideia pra extender a aplicação, me manda um zap pra gente fazer um pull request 0/
